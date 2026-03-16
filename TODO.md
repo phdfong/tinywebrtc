@@ -17,7 +17,7 @@ An SFU is a media server that acts as a central router for media streams. Each c
 
 ---
 
-## 2. [Major] Refactor the Backend (`/backend`)
+## 2. [Major] Refactor the Signal Server (`/signal_server`)
 
 The existing signaling server will be replaced by a new backend service that authenticates users and manages room access for the SFU.
 
