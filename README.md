@@ -11,7 +11,7 @@ The signaling server manages the handshake between peers.
 
 1.  Navigate to the backend directory:
     ```bash
-    cd backend
+    cd signal_server
     ```
 2.  Install dependencies:
     ```bash
