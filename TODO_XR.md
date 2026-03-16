@@ -22,7 +22,7 @@ A 2D HTML/CSS interface is insufficient for XR. A real-time 3D engine is require
 User presence in XR is defined by avatars and spatialized audio, not video squares.
 
 -   **[Task]** **Create or Integrate an Avatar System:**
-    -   **Recommendation:** [Ready Player Me](https://readyplayer.me/). It provides a simple way for users to create a personal 3D avatar and offers an easy-to-use SDK.
+    - (if available) [Ready Player Me](https://readyplayer.me/). It provides a simple way for users to create a personal 3D avatar and offers an easy-to-use SDK.
     -   **Action:** Integrate the avatar SDK. When a user joins, load their avatar into the 3D scene.
 
 -   **[Task]** **Synchronize Avatar Movement:**
